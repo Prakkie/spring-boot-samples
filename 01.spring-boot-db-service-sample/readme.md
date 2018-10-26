@@ -39,10 +39,10 @@ Import as *Existing Maven Project* and run it as *Spring Boot App*.
 
 Use in pom
 <dependency>
-           <groupId>mysql</groupId>
-           <artifactId>mysql-connector-java</artifactId>
-           <version>8.0.11</version>
-    </dependency>
+  <groupId>mysql</groupId>
+  <artifactId>mysql-connector-java</artifactId>
+  <version>8.0.11</version>
+</dependency>
 
 If mySQL is >= 5.8
 
